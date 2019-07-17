@@ -9,7 +9,7 @@
     <string name="action_settings">Settings</string>
 
     // Rules strings
-    <string name="get_ritual_ready">Get Ritual Ready: Upon arrival, the ritual marshal will take the following steps, with which the players involved should cooperate:
+    <string name="get_ritual_ready"><b>Get Ritual Ready:</b> Upon arrival, the ritual marshal will take the following steps, with which the players involved should cooperate:
         • Ritual marshal identifies the primary caster and any additional casters who will assist in the ritual.
         • Ritual marshal reviews the casters’ player cards to note how many levels of the appropriate school of Formal Magic they possess. Note that a Ritual Caster may choose to not use all of their Ritual Levels when casting if they so desire.
         • Ritual marshal reads the first ritual scroll thoroughly, asking relevant questions. For example, if the scroll has the ability to cast a more powerful form of the ritual, the marshal should ask the player what level of the ritual the caster is attempting.
