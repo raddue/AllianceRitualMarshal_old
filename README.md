@@ -5,6 +5,7 @@
 1. Strings for getting ready for the ritual.
 2. Strings for casting the ritual.
 3. Timer - five minutes.
+4. Random number generator from 0 - 9.
 
 ## Feature list
 
