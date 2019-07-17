@@ -1,12 +1,12 @@
 # Alliance Ritual Marshal
 
-## MVP Feature list:
+## MVP Feature list
 
 1. Strings for getting ready for the ritual.
 2. Strings for casting the ritual.
 3. Timer - five minutes.
 
-## Feature list:
+## Feature list
 
 1. Checklist for getting ready for the ritual.
 2. Variable timer.
