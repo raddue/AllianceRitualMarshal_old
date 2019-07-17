@@ -10,13 +10,13 @@
 
     // Rules strings
     <string name="get_ritual_ready"><b>Get Ritual Ready:</b> Upon arrival, the ritual marshal will take the following steps, with which the players involved should cooperate:
-        • Ritual marshal identifies the primary caster and any additional casters who will assist in the ritual.
-        • Ritual marshal reviews the casters’ player cards to note how many levels of the appropriate school of Formal Magic they possess. Note that a Ritual Caster may choose to not use all of their Ritual Levels when casting if they so desire.
-        • Ritual marshal reads the first ritual scroll thoroughly, asking relevant questions. For example, if the scroll has the ability to cast a more powerful form of the ritual, the marshal should ask the player what level of the ritual the caster is attempting.
-        • Ritual marshal confirms that all the required components and recipients are present within a valid Circle of Power.
-        • Ritual marshal calculates and informs the players of the Difficulty Rating of the ritual.
-        • Ritual marshal calculates and informs the players of the chance of success of the ritual as follows: The Success Number used for the ritual roll is ten plus the primary caster’s Formal Magic levels minus the ritual’s Difficulty Rating. If using secondary casters to aid in the ritual, add one to the number of caster formal levels for each valid secondary caster participating.
-        • Ritual marshal repeats this process for each ritual the players intend to conduct.
-        • Ritual marshal informs the players they may begin the first ritual.
-        • The caster casts the Circle of Power spell if a permanent Circle of Power is not being used.</string>
+        \n • Ritual marshal identifies the primary caster and any additional casters who will assist in the ritual.
+        \n • Ritual marshal reviews the casters’ player cards to note how many levels of the appropriate school of Formal Magic they possess. Note that a Ritual Caster may choose to not use all of their Ritual Levels when casting if they so desire.
+        \n • Ritual marshal reads the first ritual scroll thoroughly, asking relevant questions. For example, if the scroll has the ability to cast a more powerful form of the ritual, the marshal should ask the player what level of the ritual the caster is attempting.
+        \n • Ritual marshal confirms that all the required components and recipients are present within a valid Circle of Power.
+        \n • Ritual marshal calculates and informs the players of the Difficulty Rating of the ritual.
+        \n • Ritual marshal calculates and informs the players of the chance of success of the ritual as follows: The Success Number used for the ritual roll is ten plus the primary caster’s Formal Magic levels minus the ritual’s Difficulty Rating. If using secondary casters to aid in the ritual, add one to the number of caster formal levels for each valid secondary caster participating.
+        \n • Ritual marshal repeats this process for each ritual the players intend to conduct.
+        \n • Ritual marshal informs the players they may begin the first ritual.
+        \n • The caster casts the Circle of Power spell if a permanent Circle of Power is not being used.</string>
 </resources>
