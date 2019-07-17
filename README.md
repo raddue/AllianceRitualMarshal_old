@@ -1,11 +1,15 @@
 # Alliance Ritual Marshal
 
-## Feature list:
+## MVP Feature list:
 
 1. Strings for getting ready for the ritual.
 2. Strings for casting the ritual.
-3. Checklist for getting ready for the ritual.
-4. Timer.  Needs to be variable for ritual manipulations.
-6. Difficulty calculator based on caster Formal level and Scroll difficulty.
-7. Die roller.
-8. Ritual manipulation list with descriptions.
+3. Timer - five minutes.
+
+## Feature list:
+
+1. Checklist for getting ready for the ritual.
+2. Variable timer.
+3. Difficulty calculator based on caster Formal level and Scroll difficulty.
+4. Die roller.
+5. Ritual manipulation list with descriptions.
